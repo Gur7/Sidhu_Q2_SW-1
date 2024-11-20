@@ -1,0 +1,19 @@
+body {
+	background-color: lightblue;
+	color: lightcoral;
+}
+
+container{
+	padding: 30 px;
+	margin: 60 px;
+}
+
+img{
+	width: 150 px;
+	size: 150 px;
+}
+
+h1{
+	text-align: center;
+	color: black;
+}
